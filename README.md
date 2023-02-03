@@ -12,7 +12,7 @@ Seja bem-vindo! Este desafio foi projetado para avaliar a sua capacidade técnic
 ## Proposta
 Você deverá desenvolver um projeto utilizando Node.js ou Phyton no back-end com a finalidade de desenvolver um mini sistema de estoque de tecidos.
 
-## Entendendo o projeeto
+## Entendendo o projeto
 Levando em consideração que 1 metro de tecido é o suficiente para montar 7 bonés, construa um sistema onde seja possível inserir, editar, exibir, filtrar e deletar tecidos, e uma rota especifica para saber quantos bonés consigo produzir com o meu estoque atual. 
 
 **Observações:**
