@@ -8,6 +8,7 @@ Seja bem-vindo! Este desafio foi projetado para avaliar a sua capacidade técnic
 - O conjunto mínimo de tecnologias a serem utilizadas são: alguma das tecnologias de back-end informadas na proposta desse desafio;
 - Crie um passo a passo de como rodar a sua aplicação;
 - Após finalizar, envie o link do seu projeto no github para tech@seubone.com. Informe também o seu nome e telefone para contato no E-mail.
+Em caso de dúvidas entre em [contato](https://api.whatsapp.com/send?phone=5584996624926&text=Ol%C3%A1,%20estou%20participando%20do%20desafio%20da%20vaga%20tech,%20poderia%20me%20ajudar?).
 
 ## Proposta
 Você deverá desenvolver um projeto utilizando Node.js ou Phyton no back-end com a finalidade de desenvolver um mini sistema de estoque de tecidos.
